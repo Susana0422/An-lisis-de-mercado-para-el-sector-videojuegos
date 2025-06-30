@@ -2,16 +2,25 @@
 
 ![videogames](https://github.com/user-attachments/assets/5f72facc-d69c-44ea-9384-e123d660763b)
 
+## 📌 Goal
+Detect patterns to create an advertising campaign for the video game market for the ICE store.
 
-Goal: Detect patterns to create an advertising campaign for the video game market for the ICE store.
+---
 
-Description: The project focused on analyzing a dataset of he video game market for the ICE store between 1980 and 2016. The dataset included platform,year_of_release,genre,na_sales,eu_sales,jp_sales,other_sales,critic_score,user_score,rating and rating_name. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA)
+## 📄 Description
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+The project focused on analyzing a dataset of he video game market for the ICE store between 1980 and 2016. The dataset included platform,year_of_release,genre,na_sales,eu_sales,jp_sales,other_sales,critic_score,user_score,rating and rating_name. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA)
+
+---
+
+## 🧠 Skills Applied
+
+Data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
 Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-Results: 
+
+## 📊 Key Results
 
 - The industries that dominate the video game market are playstation and Nintendo, which statistically have equal variance and means.
 
